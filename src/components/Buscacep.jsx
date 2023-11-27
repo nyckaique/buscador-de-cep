@@ -45,7 +45,7 @@ export default function Buscacep() {
         style={{ backgroundColor: "#61a5c2", height: "100vh" }}
         bg-blue
       >
-        <Grid xs={4}>
+        <Grid xs={11}>
           <Typography
             variant="h4"
             gutterBottom
