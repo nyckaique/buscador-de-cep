@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/buscador-de-cep/static/css/main.f855e6bc.css",
+    "main.js": "/buscador-de-cep/static/js/main.5e68500c.js",
+    "static/js/787.943944d1.chunk.js": "/buscador-de-cep/static/js/787.943944d1.chunk.js",
+    "index.html": "/buscador-de-cep/index.html",
+    "main.f855e6bc.css.map": "/buscador-de-cep/static/css/main.f855e6bc.css.map",
+    "main.5e68500c.js.map": "/buscador-de-cep/static/js/main.5e68500c.js.map",
+    "787.943944d1.chunk.js.map": "/buscador-de-cep/static/js/787.943944d1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.5e68500c.js"
+  ]
+}
